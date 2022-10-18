@@ -1,4 +1,4 @@
-# Diffusion4NLP
+# Diffusion4NLP-Papers
 ![](https://img.shields.io/static/v1?label=Latest-Commit&message=2022/10/18&color=important) ![](https://img.shields.io/static/v1?label=Newest&message=Origin&color=red)
 
 A paper list about diffusion models for natural language processing.
