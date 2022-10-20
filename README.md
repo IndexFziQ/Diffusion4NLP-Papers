@@ -8,7 +8,7 @@ Oct. 18, 2022, Add papers that attempt to apply diffusion models for NLP from sc
 
 ### Conference Paper
 
-1. **Diffusion-LM Improves Controllable Text Generation.** *Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto.* in NeuralPS [[pdf](https://arxiv.org/pdf/2205.14217.pdf)] [[code](https://github.com/XiangLi1999/Diffusion-LM)]
+1. **Diffusion-LM Improves Controllable Text Generation.** *Xiang Lisa Li, John Thickstun, Ishaan Gulrajani, Percy Liang, Tatsunori B. Hashimoto.* In NeuralPS 2022. [[pdf](https://arxiv.org/pdf/2205.14217.pdf)] [[code](https://github.com/XiangLi1999/Diffusion-LM)]
 2. **DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models.** *Shansan Gong, Mukai Li, Jiangtao Feng, Zhiyong Wu, LingPeng Kong.* Under review in ICLR 2023. [[pdf](https://arxiv.org/pdf/2210.08933.pdf)] [[code](https://github.com/Shark-NLP/DiffuSeq)]
 3. **Latent Diffusion Energy-Based Model for Interpretable Text Modeling.** *Peiyu Yu, Sirui Xie, Xiaojian Ma, Baoxiong Jia, Bo Pang, Ruiqi Gao, Yixin Zhu, Song-Chun Zhu, Ying Nian Wu.* [[pdf](https://proceedings.mlr.press/v162/yu22h/yu22h.pdf)] [[code](https://github.com/yuPeiyu98/LDEBM)]
 4. **Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning.** *Ting Chen, Ruixiang Zhang, Geoffrey Hinton.* [[pdf](https://openreview.net/pdf?id=jQj-_rLVXsj)] [[code](https://github.com/lucidrains/bit-diffusion)]
