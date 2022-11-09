@@ -15,7 +15,7 @@ A paper list about diffusion models for natural language processing.
 4. **Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning.** *Ting Chen, Ruixiang Zhang, Geoffrey Hinton.* [[pdf](https://openreview.net/pdf?id=jQj-_rLVXsj)] [[code](https://github.com/lucidrains/bit-diffusion)]
 5. **Structured Denoising Diffusion Models in Discrete State-Spaces**. *Jacob Austin, Daniel D. Johnson, Jonathan Ho, Daniel Tarlow, Rianne van den Berg.* [[pdf](https://arxiv.org/pdf/2107.03006.pdf)]
 6. **Composable Text Controls in Latent Space with ODEs**. *Guangyi Liu, Zeyu Feng, Yuan Gao, Zichao Yang, Xiaodan Liang, Junwei Bao, Xiaodong He, Shuguang Cui, Zhen Li, Zhiting Hu.* [[pdf](https://arxiv.org/pdf/2208.00638.pdf)]
-7. **DiffusER: Discrete Diffusion via Edit-based Reconstruction**. *Machel Reid, Vincent J. Hellendoorn, Graham Neubig.* [[pdf](https://arxiv.org/pdf/2210.16886.pdf)]
+7. **DiffusER: Discrete Diffusion via Edit-based Reconstruction**. *Machel Reid, Vincent J. Hellendoorn, Graham Neubig.* Under review in ICLR 2023. [[pdf](https://arxiv.org/pdf/2210.16886.pdf)]
 8. **Self-conditioned Embedding Diffusion for Text Generation**. *Robin Strudel, Corentin Tallec, Florent Altché, Yilun Du, Yaroslav Ganin, Arthur Mensch, Will Grathwohl, Nikolay Savinov, Sander Dieleman, Laurent Sifre, Rémi Leblond.* [[pdf](https://arxiv.org/pdf/2211.04236v1.pdf)]
 
 ### Survey
