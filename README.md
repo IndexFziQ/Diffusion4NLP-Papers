@@ -13,6 +13,8 @@ Oct. 18, 2022, Add papers that attempt to apply diffusion models for NLP from sc
 3. **Latent Diffusion Energy-Based Model for Interpretable Text Modeling.** *Peiyu Yu, Sirui Xie, Xiaojian Ma, Baoxiong Jia, Bo Pang, Ruiqi Gao, Yixin Zhu, Song-Chun Zhu, Ying Nian Wu.* [[pdf](https://proceedings.mlr.press/v162/yu22h/yu22h.pdf)] [[code](https://github.com/yuPeiyu98/LDEBM)]
 4. **Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning.** *Ting Chen, Ruixiang Zhang, Geoffrey Hinton.* [[pdf](https://openreview.net/pdf?id=jQj-_rLVXsj)] [[code](https://github.com/lucidrains/bit-diffusion)]
 5. **Structured Denoising Diffusion Models in Discrete State-Spaces**. *Jacob Austin, Daniel D. Johnson, Jonathan Ho, Daniel Tarlow, Rianne van den Berg.* [[pdf](https://arxiv.org/pdf/2107.03006.pdf)]
+5. **DiffusER: Discrete Diffusion via Edit-based Reconstruction**. *Machel Reid, Vincent J. Hellendoorn, Graham Neubig.* [[pdf](https://arxiv.org/pdf/2210.16886.pdf)]
+5. **Self-conditioned Embedding Diffusion for Text Generation**. *Robin Strudel, Corentin Tallec, Florent Altché, Yilun Du, Yaroslav Ganin, Arthur Mensch, Will Grathwohl, Nikolay Savinov, Sander Dieleman, Laurent Sifre, Rémi Leblond.* [[pdf](https://arxiv.org/pdf/2211.04236v1.pdf)]
 
 ### Survey
 
