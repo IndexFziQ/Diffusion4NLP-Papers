@@ -4,7 +4,8 @@
 A paper list about diffusion models for natural language processing.
 
 **Update News:**
-Oct. 18, 2022, Add papers that attempt to apply diffusion models for NLP from scratch.
+- Nov. 9, 2022, Add 3 pre-print papers.
+- Oct. 18, 2022, Add papers that attempt to apply diffusion models for NLP from scratch.
 
 ### Conference Paper
 
