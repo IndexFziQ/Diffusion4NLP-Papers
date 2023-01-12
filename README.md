@@ -17,7 +17,7 @@ A paper list about diffusion models for natural language processing.
 6. **Composable Text Controls in Latent Space with ODEs**. *Guangyi Liu, Zeyu Feng, Yuan Gao, Zichao Yang, Xiaodan Liang, Junwei Bao, Xiaodong He, Shuguang Cui, Zhen Li, Zhiting Hu.* [[pdf](https://arxiv.org/pdf/2208.00638.pdf)]
 7. **DiffusER: Discrete Diffusion via Edit-based Reconstruction**. *Machel Reid, Vincent J. Hellendoorn, Graham Neubig.* Under review in ICLR 2023. [[pdf](https://arxiv.org/pdf/2210.16886.pdf)]
 8. **Self-conditioned Embedding Diffusion for Text Generation**. *Robin Strudel, Corentin Tallec, Florent Altché, Yilun Du, Yaroslav Ganin, Arthur Mensch, Will Grathwohl, Nikolay Savinov, Sander Dieleman, Laurent Sifre, Rémi Leblond.* [[pdf](https://arxiv.org/pdf/2211.04236v1.pdf)]
-9. **DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models**. *Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu.* [[pdf](https://arxiv.org/abs/2211.15029)]
+9. **DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models**. *Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu.* [[pdf](https://arxiv.org/abs/2211.15029)] [[code](https://github.com/Hzfinfdu/Diffusion-BERT)]
 
 ### Survey
 
