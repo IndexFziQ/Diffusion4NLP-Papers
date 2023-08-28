@@ -17,7 +17,12 @@ A paper list about diffusion models for natural language processing.
 6. **Composable Text Controls in Latent Space with ODEs**. *Guangyi Liu, Zeyu Feng, Yuan Gao, Zichao Yang, Xiaodan Liang, Junwei Bao, Xiaodong He, Shuguang Cui, Zhen Li, Zhiting Hu.* [[pdf](https://arxiv.org/pdf/2208.00638.pdf)]
 7. **DiffusER: Discrete Diffusion via Edit-based Reconstruction**. *Machel Reid, Vincent J. Hellendoorn, Graham Neubig.* ICLR 2023. [[pdf](https://arxiv.org/pdf/2210.16886.pdf)]
 8. **Self-conditioned Embedding Diffusion for Text Generation**. *Robin Strudel, Corentin Tallec, Florent Altché, Yilun Du, Yaroslav Ganin, Arthur Mensch, Will Grathwohl, Nikolay Savinov, Sander Dieleman, Laurent Sifre, Rémi Leblond.* [[pdf](https://arxiv.org/pdf/2211.04236v1.pdf)]
-9. **DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models**. *Zhengfu He, Tianxiang Sun, Kuanning Wang, Xuanjing Huang, Xipeng Qiu.* [[pdf](https://arxiv.org/abs/2211.15029)] [[code](https://github.com/Hzfinfdu/Diffusion-BERT)]
+9. **DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models**. *Zhengfu He, Tianxiang Sun, Qiong Tang, Kuanning Wang, Xuanjing Huang and Xipeng Qiu*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.248.pdf)]
+10. **NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation**. *Shengming Yin, Chenfei Wu, Huan Yang, Jianfeng Wang, Xiaodong Wang, Minheng Ni, Zhengyuan Yang, Linjie Li, Shuguang Liu, Fan Yang, Jianlong Fu, Ming Gong, Lijuan Wang, Zicheng Liu, Houqiang Li and Nan Duan*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.73.pdf)]
+11. **DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**. *Guanqun Bi, Lei Shen, Yanan Cao, Meng Chen, Yuqiang Xie, Zheng Lin and Xiaodong He*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.158.pdf)]
+12. **DiffusionNER: Boundary Diffusion for Named Entity Recognition**. *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu and Yueting Zhuang*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.215.pdf)]
+13. **What the DAAM: Interpreting Stable Diffusion Using Cross Attention**. *Raphael Tang, Linqing Liu, Akshat Pandey, Zhiying Jiang, Gefei Yang, Karun Kumar, Pontus Stenetorp, Jimmy Lin and Ferhan Ture*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.310.pdf)]
+14. **SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control**. *Xiaochuang Han, Sachin Kumar and Yulia Tsvetkov*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.647.pdf)]
 
 ### Survey
 
