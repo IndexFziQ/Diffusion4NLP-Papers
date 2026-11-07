@@ -23,6 +23,7 @@ A paper list about diffusion models for natural language processing.
 12. **DiffusionNER: Boundary Diffusion for Named Entity Recognition**. *Yongliang Shen, Kaitao Song, Xu Tan, Dongsheng Li, Weiming Lu and Yueting Zhuang*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.215.pdf)]
 13. **What the DAAM: Interpreting Stable Diffusion Using Cross Attention**. *Raphael Tang, Linqing Liu, Akshat Pandey, Zhiying Jiang, Gefei Yang, Karun Kumar, Pontus Stenetorp, Jimmy Lin and Ferhan Ture*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.310.pdf)]
 14. **SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control**. *Xiaochuang Han, Sachin Kumar and Yulia Tsvetkov*. ***ACL 2023*** [[pdf](https://www.aclweb.org/anthology/2023.acl-long.647.pdf)]
+15. **Empirical Analysis of Decoding Biases in Masked Diffusion Models**. *Pengcheng Huang, Tianming Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen and Maosong Sun*. ***ACL 2026*** [[pdf](https://aclanthology.org/2026.acl-long.311.pdf)] [[code](https://github.com/NEUIR/Uncode)]
 
 ### Survey
 
